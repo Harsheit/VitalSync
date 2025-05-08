@@ -1,1 +1,19 @@
-# VitalSync
+VitalSync
+Vitalsync is a privacy first smartwatch-to-smartwatch communication platform that enables real time health monitoring.
+
+Key Features
+Direct smartwatch-to-smartwatch communication.
+AI-powered health risk predictions using machine learning.
+Secure, cloud-based authorization for access control.
+End to end encryption to ensure data is secure, personal and private.
+Technologies used
+Embedded C/C++/Micropython
+ESP32, Arduino Nano
+Firebase / cloud APIs
+Machine Learning
+Web-based user interface
+Team
+Backed by cocreate volunteers, Vitalsync is built by a diverse team of 9 engineering students passionate about solving real-world problems using IOT/Embedded systems and machine learning.
+
+Status
+Currently under active development. First prototype expected soon.
